@@ -1,5 +1,4 @@
 **Name:** Visanescu Bogdan-Emilian  
-**Group:** 313CA
 ## My first steps into asembly
 
 Through these tasks, I've gained a deeper understanding
