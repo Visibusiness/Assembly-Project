@@ -87,4 +87,5 @@ When a 0 is found, the algorithm moves to that location.
 
 Finally, the coordinates of the exit are saved into the corresponding 
 addresses.
+
 **Author:** Visanescu Bogdan-Emilian  
